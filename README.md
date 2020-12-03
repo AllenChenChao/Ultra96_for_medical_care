@@ -1,4 +1,4 @@
-# Ultra96_for_medincal_care
+# Ultra96_for_medical_care
 Thanks Xilinx for Ultra96 board.
 
 Here is a design for AF classifier.
